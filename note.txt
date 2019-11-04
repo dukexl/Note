@@ -4,3 +4,7 @@
 4.git status -s 查看状态
 5.git push  提交上去
 6.git pull  拉去下来
+
+git rm -r note
+git commit -m"delete note"
+git push -u origin master
