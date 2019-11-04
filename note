@@ -1,0 +1,6 @@
+1.新建一个仓库
+2.git clone 到本地
+3.git add 文件
+4.git status -s 查看状态
+5.git push  提交上去
+6.git pull  拉去下来
